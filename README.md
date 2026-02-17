@@ -35,30 +35,30 @@ Defaults to `sample_bank_statement.csv` if no file is specified.
          PERSONAL FINANCE REPORT
 =======================================================
 
-  Total Income:    $  9,500.00
-  Total Expenses:  $  3,973.71
-  Net Balance:     $  5,526.29
-  Transactions:            29
+  Total Income:    $ 15,800.00
+  Total Expenses:  $  7,492.05
+  Net Balance:     $  8,307.95
+  Transactions:            48
 
 -------------------------------------------------------
   SPENDING BY CATEGORY
 -------------------------------------------------------
-  Housing          $ 2,700.00  ( 67.9%)  #################################
-  Shopping         $   352.43  (  8.9%)  ####
-  Groceries        $   347.97  (  8.8%)  ####
-  Utilities        $   305.39  (  7.7%)  ###
-  Transportation   $   136.70  (  3.4%)  #
-  Entertainment    $    87.97  (  2.2%)  #
-  Dining           $    43.25  (  1.1%)
+  Housing          $ 5,400.00  ( 72.1%)  ####################################
+  Groceries        $   572.45  (  7.6%)  ###
+  Shopping         $   554.70  (  7.4%)  ###
+  Utilities        $   492.49  (  6.6%)  ###
+  Transportation   $   222.60  (  3.0%)  #
+  Dining           $   143.85  (  1.9%)
+  Entertainment    $   105.96  (  1.4%)
 
 -------------------------------------------------------
   TOP 5 LARGEST EXPENSES
 -------------------------------------------------------
   1. 2026-01-29  Mortgage Payment             $ 1,500.00
-  2. 2026-01-09  Rent Payment                 $ 1,200.00
-  3. 2026-01-25  Best Buy Electronics         $   199.99
-  4. 2026-01-07  Electric Bill Payment        $   125.40
-  5. 2026-01-23  Whole Foods Market           $    95.40
+  2. 2026-02-16  Mortgage Payment             $ 1,500.00
+  3. 2026-01-09  Rent Payment                 $ 1,200.00
+  4. 2026-02-02  Rent Payment                 $ 1,200.00
+  5. 2026-01-25  Best Buy Electronics         $   199.99
 
 =======================================================
 ```
